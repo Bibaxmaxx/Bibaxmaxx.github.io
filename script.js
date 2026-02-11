@@ -162,7 +162,7 @@ document.head.appendChild(style);
 
 // YES is clicked - CELEBRATION!
 yesBtn.addEventListener("click", () => {
-    title.textContent = "Yippeeee! 🎉";
+    title.textContent = "Lets gooooooo !!!";
     
     catImg.src = "cat_dance.gif";
     
